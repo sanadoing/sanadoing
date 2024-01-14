@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mountrive)](https://solved.ac/mountrive)
-![busangangster's GitHub stats](https://github-readme-stats.vercel.app/api?username=mountrive&show_icons=true&theme=tokyonight)
+![busangangster's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanadoing&show_icons=true&theme=tokyonight)
