@@ -1,6 +1,6 @@
 ### LEE SANHA 😉
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanadoing&count_bg=%23FFDAC7&title_bg=%23ffcc00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanadoing&count_bg=%23FFDAC7&title_bg=%23009933&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)]
 <!--
 **busangangster/busangangster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
