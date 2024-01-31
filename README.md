@@ -1,5 +1,11 @@
-
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&customColorList=7,6,4&height=200&text=welcome%20to%20Sana's%20GitHub%20!&fontSize=40&animation=fadeIn&fontColor=454545)
+
+
+
+
+<br>
+
+<h3>💪Skills</h3>
 
 <div>
   <p> <strong> Platforms & Languages</strong> </p>
@@ -16,7 +22,9 @@
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/notion-d9d9d9?style=flat&logo=notion&logoColor=black" />
   <img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
+	
 </div>
 
 
