@@ -30,7 +30,7 @@
 </br>
 <div>
 	<p> <strong> Portfolio </strong> </p>
-	<a href="[/media/examples/link-element-example.css](https://www.figma.com/file/k5oZOaRShhxLanbw8qdjHp/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=347%3A2&mode=dev&t=tGmA8JJtU96vwVbB-1)" rel="stylesheet" >figma link !</a>
+	<a href="https://www.figma.com/proto/k5oZOaRShhxLanbw8qdjHp/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=347-110&t=SF8XWklyKeOWGoju-0&scaling=min-zoom&page-id=347%3A2" rel="stylesheet" >figma link !</a>
 
 	
 </div>
